@@ -1,6 +1,6 @@
 # Teach English on WeChat
 
-We are developing a platform for English teachers and Chinese students to find and communicate conveniently. It is based WeChat - the biggest social media in China.
+We are developing a platform for English teachers and Chinese students to find and communicate each other conveniently. It is based WeChat - the biggest social media in China.
 
 ## Overview
 
