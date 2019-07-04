@@ -23,7 +23,7 @@ We are developing a platform for English teachers and Chinese students to find a
 
 ## How to join in as a teacher?
 
-- Provide your profile and course description to apply to be a teacher.
+- Provide your profile and course description to apply for.
 
 - If approved, we will put your profile and course information onto the mini program.
 
