@@ -25,11 +25,28 @@ We are developing a platform for English teachers and Chinese students to find a
 
 - Provide your profile and course description to apply for.
 
+
 - If approved, we will put your profile and course information onto the mini program.
 
 - Conduct sample classes in a group.
 
 If students' feedback is good, your course will be formally scheduled and get paid for them. You can also promote your private courses on the platform.
+
+## What to display for your profile and course?
+
+### Teacher profile
+
+- Name
+- Nationality
+- Picture
+- Brief introduction of yourself
+
+### Course
+
+- Title
+- Description
+- Rate
+
 
 
 Contact Henry (wechat id: **henry334013**) for further details.
