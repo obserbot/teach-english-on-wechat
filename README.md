@@ -50,7 +50,7 @@ If students' feedback is good, your course will be formally scheduled and get pa
 
 
 
-Contact Henry (wechat id: **henry334013**) for further details.
+Contact Henry (wechat id: **henry334013**, or email: **henryhu712 @ gmail.com**) for further details.
 
 
 
