@@ -9,7 +9,7 @@ We are developing a platform for English teachers and Chinese students to find a
 2. 微移英语 - A WeChat official account.
 
 <p align="center">
-  <img src="images/wyyy.jpg" width="300">
+  <img src="images/wyyy.jpg" width="215">
 </p>
 
 3. **Weiyi English** - A mini program (a type of mini applications running on WeChat), under development
