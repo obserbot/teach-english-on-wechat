@@ -32,4 +32,7 @@ We are developing a platform for English teachers and Chinese students to find a
 If students' feedback is good, your course will be formally scheduled and get paid for them. You can also promote your private courses on the platform.
 
 
+Contact Henry (wechat id: henry334013) for further details.
+
+
 
