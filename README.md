@@ -44,6 +44,7 @@ If students' feedback is good, your course will be formally scheduled and get pa
 ### Course
 
 - Title
+- Duration of each class
 - Description
 - Rate
 
