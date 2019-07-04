@@ -4,18 +4,32 @@ We are developing a platform for English teachers and Chinese students to find a
 
 ## Overview
 
-[Open English Classes](http://openenglishclasses.com) - (Under development)
+1. [Open English Classes](http://openenglishclasses.com) - (Under development)
 
-微移英语 - A WeChat official account.
+2. 微移英语 - A WeChat official account.
+
 <p align="center">
   <img src="images/wyyy.jpg" width="300">
 </p>
 
-**Weiyi English** - A mini program (a type of mini applications running on WeChat), under development
+3. **Weiyi English** - A mini program (a type of mini applications running on WeChat), under development
 
 <p align="center">
   <img src="images/weiyi-english-courses.png" width="260">
   <img src="images/weiyi-english-teachers.png" width="260">
 </p>
+
+4. Wechat groups - English community and offering classes in the groups.
+
+## How to join in as a teacher?
+
+- Provide your profile and course description to apply to be a teacher.
+
+- If approved, we will put your profile and course information onto the mini program.
+
+- Conduct sample classes in a group.
+
+If students' feedback is good, your course will be formally scheduled and get paid for them. You can also promote your private courses on the platform.
+
 
 
