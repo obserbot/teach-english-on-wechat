@@ -31,7 +31,7 @@ We are developing a platform for English teachers and Chinese students to find a
 
 - Conduct charging classes.
 
-Note that we do NOT hire teachers. We create the platform and utilities for online English classes on WeChat. If your courses are good enough, you can sell your lessons via our platform.
+Note that we do **NOT** hire teachers. We create the platform and facilities for online English classes on WeChat. If your courses are good enough, you would sell your lessons to students directly via our platform.
 
 
 ## What to display for your profile and course?
