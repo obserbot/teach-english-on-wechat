@@ -25,12 +25,14 @@ We are developing a platform for English teachers and Chinese students to find a
 
 - Provide your profile and course description to apply for.
 
-
 - If approved, we will put your profile and course information onto the mini program.
 
 - Conduct sample classes in a group.
 
-If students' feedback is good, your course will be formally scheduled and get paid for them. You can also promote your private courses on the platform.
+- Conduct charging classes.
+
+Note that we do NOT hire teachers. We create the platform and utilities for online English classes on WeChat. If your courses are good enough, you can sell your lessons via our platform.
+
 
 ## What to display for your profile and course?
 
