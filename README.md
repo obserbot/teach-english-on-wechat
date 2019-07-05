@@ -36,7 +36,7 @@ Note that we do **NOT** hire teachers. We create the platform and facilities for
 
 ## How to apply for registration as a teacher?
 
-Please email the information below to **henryhu712 at gamil.com**
+Please email the information below to **henryhu712 at gamil.com**.
 
 ### Teacher profile
 
