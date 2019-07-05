@@ -21,9 +21,9 @@ We are developing a platform for English teachers and Chinese students to find a
 
 4. Wechat groups - English community and offering classes in the groups.
 
-## How to join in as a teacher?
+## How does it work for teachers?
 
-- Provide your profile and course description to apply for.
+- Apply for registration as a teacher.
 
 - If approved, we will put your profile and course information onto the mini program.
 
@@ -34,7 +34,9 @@ We are developing a platform for English teachers and Chinese students to find a
 Note that we do **NOT** hire teachers. We create the platform and facilities for online English classes on WeChat. If your courses are good enough, you would sell your lessons to students directly via our platform.
 
 
-## What to display for your profile and course?
+## How to apply for registration as a teacher?
+
+Please email the information below to **henryhu712 at gamil.com**
 
 ### Teacher profile
 
@@ -51,8 +53,7 @@ Note that we do **NOT** hire teachers. We create the platform and facilities for
 - Rate
 
 
-
-Contact Henry (wechat id: **henry334013**, or email: **henryhu712 at gmail.com**) for further details.
+Contact Henry (wechat id: **henry334013**) for detailed information.
 
 
 
