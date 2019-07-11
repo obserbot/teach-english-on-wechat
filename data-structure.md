@@ -5,9 +5,14 @@
 
 ### Lesson
 
-- Description
 - Registed students
 - Schedule
-- Content (real class log)
+
+- Material                  预习材料
+- Content (real class log)  课堂内容
+- Homework                  课后作业
+
+
+
 
 
