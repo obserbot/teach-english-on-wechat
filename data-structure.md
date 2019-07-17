@@ -8,9 +8,9 @@
 - Registed students
 - Schedule
 
-- Material                  预习材料
-- Content (real class log)  课堂内容
-- Homework                  课后作业
+- Material              预习材料
+- Content   [lessonote] 课堂内容
+- Homework              课后作业
 
 
 
